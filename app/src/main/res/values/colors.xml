@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f2f5f7</color>
+    <color name="colorCity">#556799</color>
+    <color name="retryScreenBg">#de645b</color>
+    <color name="btnColor">#4a4a4a</color>
+    <color name="colorPrimaryDark">#2a2a2a</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
